@@ -1,3 +1,4 @@
+
 # 🌊 Salinity Shield AI
 
 **Smart Salinity Ingress & Coastal Farmland Protection Advisor**  
@@ -221,8 +222,8 @@ salinity-shield/
 ### Step 1: Clone & Configure Environment
 
 ```bash
-git clone https://github.com/VyasVraj/-Smart-Salinity-Ingress-Coastal-Farmland-Protection-Advisor-.git
-cd -Smart-Salinity-Ingress-Coastal-Farmland-Protection-Advisor-
+git clone https://github.com/DesaiiDhiyan/Smart-Salinity-Ingress-Coastal-Farmland-Protection-Advisor.git
+cd Smart-Salinity-Ingress-Coastal-Farmland-Protection-Advisor
 ```
 
 #### Server Configuration
