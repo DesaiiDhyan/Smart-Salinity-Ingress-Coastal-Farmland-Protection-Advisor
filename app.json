@@ -2,7 +2,7 @@
   "name": "salinity-shield",
   "version": "1.0.0",
   "description": "Salinity Shield AI — Smart Salinity Ingress & Coastal Farmland Protection Advisor. An event-driven multi-agent AI platform powered by IBM Granite on IBM watsonx.ai, providing real-time salinity monitoring, risk assessment, crop advisory, irrigation guidance, land reclamation planning, and multilingual farmer alerts for coastal farmland in Gujarat, India.",
-  "repository": "https://github.com/VyasVraj/-Smart-Salinity-Ingress-Coastal-Farmland-Protection-Advisor-",
+  "repository": "https://github.com/DesaiiDhyan/Smart-Salinity-Ingress-Coastal-Farmland-Protection-Advisor",
   "keywords": [
     "ibm-granite",
     "ibm-watsonx",
